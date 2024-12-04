@@ -10,7 +10,6 @@
 **intsllation**
 
 ```bash
-$ cd pixijs-typescript-vite-template
 $ yarn
 $ yarn dev
 ```
